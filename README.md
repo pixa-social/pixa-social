@@ -19,7 +19,7 @@ Not demographics. Personality, motivation, beliefs, goals, and fears — then ca
 [▶ Aria ad](https://pub-b08cf1d89c564d04bde816182a8bb1f4.r2.dev/824c1377-ba9a-45a6-b2f2-8c337ca92f67/1785959747220-Brand_Influencer_Aria_Studio_sit-down_edited_.mp4)
 
 <a href="https://pub-b08cf1d89c564d04bde816182a8bb1f4.r2.dev/824c1377-ba9a-45a6-b2f2-8c337ca92f67/1785959747220-Brand_Influencer_Aria_Studio_sit-down_edited_.mp4">
-  <img src="https://app.pixasocial.com/brand-assets/youtube-thumbnail-1280x720.png" alt="Play the PixaSocial Brand Influencer ad" width="640" />
+  <img src="https://raw.githubusercontent.com/pixa-social/pixasocial/main/media/play-aria.svg" alt="Play the PixaSocial Brand Influencer ad" width="640" />
 </a>
 
 </div>
