@@ -4,30 +4,32 @@
 
 # PixaSocial Ai
 
-**The AI social studio built on the world’s best psychological models.**
+**Create viral content powered by psychographics.**
 
-Write, design, research, and publish — in one product. 14-day free trial. No credit card. No lock-in.
+Not demographics. Personality, motivation, beliefs, goals, and fears — then captions, personas, and Brand Influencer videos written for that mind.
 
-[app.pixasocial.com](https://app.pixasocial.com)
+[Studio](https://app.pixasocial.com)
 ·
 [Start free](https://app.pixasocial.com/register)
 ·
-[Pricing](https://app.pixasocial.com/pricing)
-·
 [pixasocial.ai](https://pixasocial.ai)
 ·
-[Marketing repo](https://github.com/pixa-social/pixasocial)
+[Discovery page](https://github.com/pixa-social/pixasocial)
+·
+[▶ Aria ad](https://pub-b08cf1d89c564d04bde816182a8bb1f4.r2.dev/824c1377-ba9a-45a6-b2f2-8c337ca92f67/1785959747220-Brand_Influencer_Aria_Studio_sit-down_edited_.mp4)
 
-<img src="https://app.pixasocial.com/brand-assets/og-open-graph-1200x630.png" alt="PixaSocial" width="720" />
+<a href="https://pub-b08cf1d89c564d04bde816182a8bb1f4.r2.dev/824c1377-ba9a-45a6-b2f2-8c337ca92f67/1785959747220-Brand_Influencer_Aria_Studio_sit-down_edited_.mp4">
+  <img src="https://app.pixasocial.com/brand-assets/youtube-thumbnail-1280x720.png" alt="Play the PixaSocial Brand Influencer ad" width="640" />
+</a>
 
 </div>
 
-### What we build
-- **AI Chat** — captions, images, PowerPoint, PDF summaries, Reels/X saves, web research, and scheduled posts
-- **Campaign psychology** — personas, operators, and copy engineered to move real minds
-- **Studio tools** — planner, calendar, Media Studio, logo & ecommerce creatives, voice (Essentials+), video (Studio)
+### Psychographics first
+Most social tools schedule posts. We model the person the post is for. Living personas. Operators that attach a feeling to the brand. Brand Influencer & Product UGC videos that sound like a real creator talking to that psyche.
+
+Methods stay proprietary. Results stay yours.
 
 ### Official
 Pixasocial LLC · Albuquerque, NM · [support@pixasocial.com](mailto:support@pixasocial.com)
 
-[LinkedIn](https://www.linkedin.com/company/pixasocial) · [Instagram](https://www.instagram.com/pixasocial) · [X](https://x.com/pixasocial)
+[LinkedIn](https://www.linkedin.com/company/pixasocial) · [Instagram](https://www.instagram.com/pixasocial) · [X](https://x.com/pixasocial) · [What is PixaSocial](https://app.pixasocial.com/articles/what-is-pixasocial)
